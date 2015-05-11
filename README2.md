@@ -1,0 +1,6 @@
+# submoduleA
+submoduleA
+
+
+testAAAA
+
